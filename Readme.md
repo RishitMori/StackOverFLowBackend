@@ -3,6 +3,8 @@ Yarn
 Run :
 nodemon app.js
 
+YOU NEED TO ADD JSON FILE FOR POST AND UPDATE AND DELETE REQUEST
+
 This is a StackOver Flow Backend Project
 In this you can
 Register using /register
